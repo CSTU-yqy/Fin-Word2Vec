@@ -1,5 +1,5 @@
 # Fin-Word2Vec
-# Adding tokens of coporations to word2vec to capture the more valuable synonyms of words in financial senerio
+## Adding tokens of coporations to word2vec to capture the more valuable synonyms of words in financial senerio
 
 We would never know how many styles of expressions would describe the anomalies of firms’ situations, so there shouldn’t be an unchanging lexicon that can work all the time, as well as the existent ones. Still, we could always find out listed firms that were in trouble. Drawing on an outcome-oriented approach to financial fraud identification, we could collect news from the year before the point when the company “fell in trouble”. According to the official documents disclosed by the CSRC on the change of the company's listing status, we define “listed firm is in trouble” refers to a listed company becoming “ST”.
 
